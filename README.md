@@ -7,13 +7,13 @@ Gig delivery workers rely on daily work for income, making them highly vulnerabl
 
 Key challenges include:
 
-No insurance focused on income disruption
+-No insurance focused on income disruption
 
-Unpredictable earning loss during external events
+-Unpredictable earning loss during external events
 
-Lack of affordable weekly protection
+-Lack of affordable weekly protection
 
-Delayed or complicated claim processes
+-Delayed or complicated claim processes
 
 GigGuard aims to solve this gap with an AI-powered, automated income protection system.
 
