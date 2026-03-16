@@ -2,13 +2,20 @@
 
 ## AI-Powered Income Protection for Gig Delivery Workers
 
-## Overview
-GigGuard is an AI-based parametric insurance platform designed to protect gig delivery workers from **loss of income** caused by external disruptions. Delivery workers depend on daily orders for earnings, and events like heavy rain, extreme heat, pollution, curfews, floods, or platform outages can directly reduce their working hours and income.
-
-GigGuard addresses this problem by offering a simple weekly protection model with AI-based risk assessment, automatic disruption detection, and instant payout support.
-
 ## Problem Statement
-Gig delivery workers rely on daily work for income, but external disruptions like weather, pollution, curfews, or platform outages can suddenly reduce their earnings. Existing insurance products mainly cover health, accidents, or assets, but do not protect workers against direct income loss. This creates a need for an affordable, automated, and accessible income protection solution.
+Gig delivery workers rely on daily work for income, making them highly vulnerable to sudden disruptions. Events like heavy rain, heat waves, pollution, curfews, and app downtime can reduce their working hours and cause immediate income loss.
+
+Key challenges include:
+
+No insurance focused on income disruption
+
+Unpredictable earning loss during external events
+
+Lack of affordable weekly protection
+
+Delayed or complicated claim processes
+
+GigGuard aims to solve this gap with an AI-powered, automated income protection system.
 
 ## Solution
 GigGuard provides a smart income protection system that:
